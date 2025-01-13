@@ -1,0 +1,4 @@
+Creating a new file
+Appending content
+Appending content
+Appending another line
